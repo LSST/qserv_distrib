@@ -1,5 +1,4 @@
 setupRequired(qserv)
 setupRequired(partition)
-setupRequired(qserv_testdata)
 
-
+setupOptional(qserv_testdata)
